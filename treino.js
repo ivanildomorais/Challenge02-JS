@@ -1,4 +1,4 @@
-const name = ["Mayara"];
+const name = ["Ivanildo"];
 let event;
 let time;
 
